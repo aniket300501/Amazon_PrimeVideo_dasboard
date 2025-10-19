@@ -1,6 +1,6 @@
 # Amazon_PrimeVideo_dasboard
 
-<img width="1777" height="720" alt="Amazon Prime Video Dashboard" src="https://github.com/user-attachments/assets/2fbfb0ad-06ca-4145-8aee-56a4236d28a5" />
+<img width="1787" height="717" alt="Amazon Prime Video Dashboard" src="https://github.com/user-attachments/assets/8ca27e41-2a6c-4a16-88a6-f3ac36c75ce8" />
 
 
 # Overview
