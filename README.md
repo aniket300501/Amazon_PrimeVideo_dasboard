@@ -14,5 +14,5 @@ The dataset, which powers this analysis, was sourced from Kaggle and covers all 
 
     Genres: 519 distinct genres
 
-#Contact
+# Contact
 For inquiries and collaborations, feel free to reach out to aniketkh30@gmail.com
