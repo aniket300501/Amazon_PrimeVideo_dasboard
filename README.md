@@ -3,6 +3,10 @@
 <img width="1787" height="717" alt="Amazon Prime Video Dashboard" src="https://github.com/user-attachments/assets/8ca27e41-2a6c-4a16-88a6-f3ac36c75ce8" />
 
 
+https://github.com/user-attachments/assets/c3797503-8feb-47b2-b681-cd82b2508e42
+
+
+
 # Overview
 This project analyzes the growth of Amazon Prime Video from 1920 to 2021, examining both TV shows and movies. A Power BI dashboard provides key insights, including the total number of titles, aggregate ratings, popular genres, top directors, and the overall time span covered.
 
